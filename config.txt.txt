@@ -1,0 +1,28 @@
+/// Graphic settings for VMD site orientation vectors ///
+vectLength  1.5
+vectRadius  0.2
+vectResol  12
+
+/// Nodes segmentation parameters ///
+segmentLength  6
+
+/// Edges threshold parameters ///
+dThresholdInter  20
+dThresholdIntra  0
+dThresholdDopantInter  0
+dThresholdDopantIntra  0
+sphereInfluenceRad  0
+
+/// Miller Abrahams parameters ///
+w0_intra  1
+w0_inter  1
+w0_dopantIntra  1
+w0_dopantInter  1
+loc_inter  15
+loc_dopantInter  30
+loc_intra  15
+loc_dopantIntra  30
+
+/// MO levels information ///
+nbrLevels  1
+nbrLevels2Read  6
